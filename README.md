@@ -4,8 +4,8 @@ Acá dejo una serie de instrucciones que sirven para subir los 2 últimos archiv
 
 Para esto se tiene que tener en cuenta que se debe tener instalado Dropbox.
 Seguir las instrucciones que se muestran en este sitio 
-[https://www.dropbox.com/install-linux] https://www.dropbox.com/install-linux
-en la sección que lleva de título *Instalación de Dropbox en un equipo sin periféricos a través de la línea de comandos*
+https://www.dropbox.com/install-linux
+en la sección que lleva de título **Instalación de Dropbox en un equipo sin periféricos a través de la línea de comandos**
 
 En el código se debe especificar la ruta de origen de los archivos a respaldar y la ruta origen
 También se les realiza un cambio de propietario por temas de permisos al momento de subir los archivos a Dropbox.
